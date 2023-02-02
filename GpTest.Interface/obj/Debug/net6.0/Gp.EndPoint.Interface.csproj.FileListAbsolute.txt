@@ -1,0 +1,17 @@
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\Gp.EndPoint.Interface.deps.json
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\Gp.EndPoint.Interface.dll
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\ref\Gp.EndPoint.Interface.dll
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\Gp.EndPoint.Interface.pdb
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\Gp.EndPoint.Api.DTO.dll
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\Gp.EndPoint.Entity.dll
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\Gp.EndPoint.Api.DTO.pdb
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\bin\Debug\net6.0\Gp.EndPoint.Entity.pdb
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.csproj.AssemblyReference.cache
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.AssemblyInfoInputs.cache
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.AssemblyInfo.cs
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.csproj.CoreCompileInputs.cache
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.csproj.CopyComplete
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.dll
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\ref\Gp.EndPoint.Interface.dll
+C:\GP-TPC-GIT\GP-EndPoints\Gp.EndPoint.Interface\obj\Debug\net6.0\Gp.EndPoint.Interface.pdb

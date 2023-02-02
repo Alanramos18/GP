@@ -1,0 +1,38 @@
+﻿[
+  {
+    "UrlNamePrepaga": "https://v2totalcoin.api.qa.global.globalprocessing.net.ar/",
+    "UrlNameCredito": "",
+    "Id_EntidadPrepaga": "632",
+    "Id_EntidadCredito": "",
+    "Entorno": "qa"
+  },
+  {
+    "UrlNamePrepaga": "https://v2entidad9999.api.qa.global.globalprocessing.net.ar/",
+    "UrlNameCredito": "http://v2credito8801.aemision.api.qa.global.globalprocessing.net.ar/",
+    "Id_EntidadPrepaga": "9999",
+    "Id_EntidadCredito": "8801",
+    "Entorno": "qa"
+  },
+  //,
+  //{
+  //  "UrlNamePrepaga": "https://v2totalcoin.api-uat.globalprocessing.com.ar/",
+  //  "UrlNameCredito": "",
+  //  "Id_EntidadPrepaga": "632",
+  //  "Id_EntidadCredito": "",
+  //  "Entorno": "uat"
+  //},
+  {
+    "UrlNamePrepaga": "https://gp1247-api.globalprocessing.com.ar/",
+    "UrlNameCredito": "",
+    "Id_EntidadPrepaga": "1247",
+    "Id_EntidadCredito": "",
+    "Entorno": "prod"
+  }
+  //{
+  //  "UrlNamePrepaga": "https://totalcoin-api.globalprocessing.com.ar/",
+  //  "UrlNameCredito": "",
+  //  "Id_EntidadPrepaga": "632",
+  //  "Id_EntidadCredito": "",
+  //  "Entorno": "prod"
+  //}
+]  
