@@ -26,10 +26,10 @@
         /// <returns>A list of personas</returns>
         /// <response code="200">Ok.</response>
         /// <response code="404">Not found.</response>
-        [HttpPost("GetAll")]
+        [HttpPost("Search")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(PersonasDTOResponse))]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public IActionResult GetAll([FromBody]SearchPersonasDTORequest searchDto, CancellationToken cancellationToken)
+        public IActionResult Search([FromBody]SearchPersonasDTORequest searchDto, CancellationToken cancellationToken)
         {
             try
             {
