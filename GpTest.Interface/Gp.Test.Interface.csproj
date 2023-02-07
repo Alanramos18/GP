@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Gp.Test.Api.DTO\Gp.Test.Api.DTO.csproj" />
     <ProjectReference Include="..\Gp.Test.Entity\Gp.Test.Entity.csproj" />
   </ItemGroup>
 

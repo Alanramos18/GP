@@ -1,7 +1,7 @@
 ﻿
 namespace Gp.Test.Api.DTO
 {
-    public class PersonasDTO
+    public class PersonasDTOResponse
     {
         public Guid Id { get; set; }
         public string NombreCompleto { get; set; } = string.Empty!;
@@ -9,5 +9,6 @@ namespace Gp.Test.Api.DTO
         public string Domicilio { get; set; } = string.Empty!;
         public string? Telefono { get; set; }
         public string? Profesion { get; set; }
+        public string? Dni { get; set; }
     }
 }

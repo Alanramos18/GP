@@ -1,33 +1,95 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TestGlobal\\GP-TEST-SR\\GpTest.Interface\\Gp.Test.Interface.csproj": {}
+    "H:\\GlobalProcesing\\TestGlobalProcessing\\GpTest.Interface\\Gp.Test.Interface.csproj": {}
   },
   "projects": {
-    "C:\\TestGlobal\\GP-TEST-SR\\Gp.Test.Entity\\Gp.Test.Entity.csproj": {
+    "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Api.DTO\\Gp.Test.Api.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestGlobal\\GP-TEST-SR\\Gp.Test.Entity\\Gp.Test.Entity.csproj",
-        "projectName": "Gp.Test.Entity",
-        "projectPath": "C:\\TestGlobal\\GP-TEST-SR\\Gp.Test.Entity\\Gp.Test.Entity.csproj",
-        "packagesPath": "C:\\Users\\lvazquez\\.nuget\\packages\\",
-        "outputPath": "C:\\TestGlobal\\GP-TEST-SR\\Gp.Test.Entity\\obj\\",
+        "projectUniqueName": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Api.DTO\\Gp.Test.Api.DTO.csproj",
+        "projectName": "Gp.Test.Api.DTO",
+        "projectPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Api.DTO\\Gp.Test.Api.DTO.csproj",
+        "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
+        "outputPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Api.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lvazquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://azure-devops-01/tfs/GP-TPC/_packaging/GlobalProcessing/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Entity\\Gp.Test.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Entity\\Gp.Test.Entity.csproj",
+        "projectName": "Gp.Test.Entity",
+        "projectPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Entity\\Gp.Test.Entity.csproj",
+        "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
+        "outputPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -50,7 +112,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,41 +122,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.113\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\TestGlobal\\GP-TEST-SR\\GpTest.Interface\\Gp.Test.Interface.csproj": {
+    "H:\\GlobalProcesing\\TestGlobalProcessing\\GpTest.Interface\\Gp.Test.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TestGlobal\\GP-TEST-SR\\GpTest.Interface\\Gp.Test.Interface.csproj",
+        "projectUniqueName": "H:\\GlobalProcesing\\TestGlobalProcessing\\GpTest.Interface\\Gp.Test.Interface.csproj",
         "projectName": "Gp.Test.Interface",
-        "projectPath": "C:\\TestGlobal\\GP-TEST-SR\\GpTest.Interface\\Gp.Test.Interface.csproj",
-        "packagesPath": "C:\\Users\\lvazquez\\.nuget\\packages\\",
-        "outputPath": "C:\\TestGlobal\\GP-TEST-SR\\GpTest.Interface\\obj\\",
+        "projectPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\GpTest.Interface\\Gp.Test.Interface.csproj",
+        "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
+        "outputPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\GpTest.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lvazquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://azure-devops-01/tfs/GP-TPC/_packaging/GlobalProcessing/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\TestGlobal\\GP-TEST-SR\\Gp.Test.Entity\\Gp.Test.Entity.csproj": {
-                "projectPath": "C:\\TestGlobal\\GP-TEST-SR\\Gp.Test.Entity\\Gp.Test.Entity.csproj"
+              "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Api.DTO\\Gp.Test.Api.DTO.csproj": {
+                "projectPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Api.DTO\\Gp.Test.Api.DTO.csproj"
+              },
+              "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Entity\\Gp.Test.Entity.csproj": {
+                "projectPath": "H:\\GlobalProcesing\\TestGlobalProcessing\\Gp.Test.Entity\\Gp.Test.Entity.csproj"
               }
             }
           }
@@ -123,7 +187,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.113\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

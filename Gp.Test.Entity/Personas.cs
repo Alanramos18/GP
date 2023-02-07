@@ -10,5 +10,6 @@
         public string? Domicilio { get; set; }
         public string? Telefono { get; set; }
         public string? Profesion { get; set; }
+        public string? Dni { get; set; }
     }
 }

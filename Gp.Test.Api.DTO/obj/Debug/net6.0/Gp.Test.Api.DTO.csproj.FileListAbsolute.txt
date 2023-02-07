@@ -34,3 +34,15 @@ C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.csproj
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.dll
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\ref\Gp.Test.Api.DTO.dll
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.pdb
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Api.DTO.deps.json
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Api.DTO.dll
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\bin\Debug\net6.0\Gp.Test.Api.DTO.pdb
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.csproj.AssemblyReference.cache
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.AssemblyInfoInputs.cache
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.AssemblyInfo.cs
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.csproj.CoreCompileInputs.cache
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.dll
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\refint\Gp.Test.Api.DTO.dll
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\Gp.Test.Api.DTO.pdb
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Api.DTO\obj\Debug\net6.0\ref\Gp.Test.Api.DTO.dll

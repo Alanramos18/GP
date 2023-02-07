@@ -4,20 +4,23 @@
     "Edad": "45",
     "Domicilio": "Av Segurola 1445",
     "Telefono": "4533542",
-    "Profesion": "Escritor"
+    "Profesion": "Escritor",
+    "Dni": "12312312"
   },
   {
     "NombreCompleto": "Rita Pavone",
     "Edad": "78",
     "Domicilio": "Mercedes 4112",
     "Telefono": "45333442",
-    "Profesion": "Doctora"
+    "Profesion": "Doctora",
+    "Dni": "12345678"
   },
   {
     "NombreCompleto": "Pedro Franco",
     "Edad": "34",
     "Domicilio": "Camarones 2343",
     "Telefono": "44565432",
-    "Profesion": "Programador"
+    "Profesion": "Programador",
+    "Dni": "87654321"
   }
 ]  

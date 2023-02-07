@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.2" />
     <PackageReference Include="ServiceStack.Interfaces" Version="6.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
@@ -24,6 +25,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Gp.Test.Api.DTO\Gp.Test.Api.DTO.csproj" />
+    <ProjectReference Include="..\Gp.Test.Business\Gp.Test.Business.csproj" />
     <ProjectReference Include="..\Gp.Test.Repository\Gp.Test.Repository.csproj" />
     <ProjectReference Include="..\GpTest.Interface\Gp.Test.Interface.csproj" />
   </ItemGroup>

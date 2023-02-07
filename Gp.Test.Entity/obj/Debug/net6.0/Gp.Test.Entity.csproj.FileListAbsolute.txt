@@ -34,3 +34,15 @@ C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.csproj.C
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.dll
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Entity\obj\Debug\net6.0\ref\Gp.Test.Entity.dll
 C:\GP-TP-GIT\GP-TEST-SSR\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.pdb
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\bin\Debug\net6.0\Gp.Test.Entity.deps.json
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\bin\Debug\net6.0\Gp.Test.Entity.dll
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\bin\Debug\net6.0\Gp.Test.Entity.pdb
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.csproj.AssemblyReference.cache
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.GeneratedMSBuildEditorConfig.editorconfig
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.AssemblyInfoInputs.cache
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.AssemblyInfo.cs
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.csproj.CoreCompileInputs.cache
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.dll
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\refint\Gp.Test.Entity.dll
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\Gp.Test.Entity.pdb
+H:\GlobalProcesing\TestGlobalProcessing\Gp.Test.Entity\obj\Debug\net6.0\ref\Gp.Test.Entity.dll

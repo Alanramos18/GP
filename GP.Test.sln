@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gp.Test.Repository", "Gp.Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gp.Test.Interface", "GpTest.Interface\Gp.Test.Interface.csproj", "{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gp.Test.Business", "Gp.Test.Business\Gp.Test.Business.csproj", "{9CB26A4F-0EF9-4D0F-9604-A600D2009045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gp.Test.Apis.Test", "Gp.Test.Apis.Test\Gp.Test.Apis.Test.csproj", "{A6BEB9E9-85F5-4017-A0C2-1DAA55C670A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB028136-AD43-4E2A-9382-FAB9A3ECD5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB26A4F-0EF9-4D0F-9604-A600D2009045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB26A4F-0EF9-4D0F-9604-A600D2009045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB26A4F-0EF9-4D0F-9604-A600D2009045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB26A4F-0EF9-4D0F-9604-A600D2009045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BEB9E9-85F5-4017-A0C2-1DAA55C670A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BEB9E9-85F5-4017-A0C2-1DAA55C670A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BEB9E9-85F5-4017-A0C2-1DAA55C670A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BEB9E9-85F5-4017-A0C2-1DAA55C670A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
